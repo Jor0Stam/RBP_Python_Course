@@ -1,2 +1,8 @@
 1. Joro
+<<<<<<< HEAD
 2. Kris
+=======
+2. Viktor
+3. Evgeni
+4. Ivo
+>>>>>>> d5b02e176a0e049560b169db60eed0fceba297ef
